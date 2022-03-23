@@ -1,6 +1,8 @@
 Certificates :-
   1.Sololearn Certificate of C Programming
+  
   2.Cisco NDG Certificate of Linux
+  
   3.GIT Training By Simplilearn
   
   
