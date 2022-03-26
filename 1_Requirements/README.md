@@ -23,7 +23,7 @@
 
 
 # SWOT Analysis :-
-      SWOT Analysis of Banking industry focuses on strength, weakness, opportunities and threats. Strength and weakness are the internal factors opportunities and threats are external factors.
-      SWOT Analysis is a validated framework that helps to evaluate business performance of Banking Industry.
+*SWOT Analysis of Banking industry focuses on strength, weakness, opportunities and threats. Strength and weakness are the internal factors opportunities and threats are external factors.
+*SWOT Analysis is a validated framework that helps to evaluate business performance of Banking Industry.
   ## Strength:- Easy to understand and easy to do all the things
   ## Weakness:- 
