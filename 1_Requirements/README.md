@@ -39,7 +39,8 @@
   ## Who :- 
        All the peoples those who want to keep their all financial things in secure and confidencial manner
        
-
+  ## How :-
+      With requirements peoples can use their respective options in bank to do Financial things 
 
 # SWOT Analysis :-
 *SWOT Analysis of Banking industry focuses on strength, weakness, opportunities and threats. Strength and weakness are the internal factors opportunities and threats are external factors.*
