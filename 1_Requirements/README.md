@@ -9,7 +9,7 @@
 
 |  ID  |             Discription           |    status   |
 |------|-----------------------------------|-------------|
-|HR_01 | Operating system(Windows10/Linux) | Implemented |
+|HR_01 | Operating system(Windows10/11/Linux) | Implemented |
 |HR_02 | C Language                        | Implemented |
 
 
