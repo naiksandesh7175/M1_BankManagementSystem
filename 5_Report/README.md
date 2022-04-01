@@ -1,3 +1,9 @@
+# Introduction About The System:-
+   
+Learning Besic C programming
+
+The Bank Management System is an application for maintaining a person's account or any other financial things in a bank. In this project I tried to show the working of a besic banking management account system and cover the basic functionality of a Bank Account Management System using C programming language
+
 
 # Description:-
     Here is a Project developed as mini project in C Bank Management System 
